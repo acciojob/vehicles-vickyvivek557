@@ -12,9 +12,6 @@ public class Vehicle {
         this.currentSpeed = 0;
     }
 
-    public Vehicle() {
-    }
-
     public String getName() {
         return name;
     }
